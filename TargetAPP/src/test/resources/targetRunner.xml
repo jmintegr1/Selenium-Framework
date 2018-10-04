@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Pnt API Automation Script " parallel="tests">
+
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="cloudEnvName" value="browserstack"/>
+    <parameter name="os" value="OS "/>
+    <parameter name="os_version" value="windows"/>
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="browserVersion" value="60.0"/>
+    <parameter name="url" value="https://www.target.com/"/>
+
+    <test name = "Search Test">
+        <classes>
+            <!--<class name="inputsearch.ShoppingCartTest"/>-->
+            <!--<class name="inputsearch.TargetHomePageTest"/>-->
+            <!--<class name="inputsearch.TargetLoginTest"/>-->
+            <class name="datatest.XcelReaderTest"/>
+        </classes>
+    </test>
+
+</suite>
