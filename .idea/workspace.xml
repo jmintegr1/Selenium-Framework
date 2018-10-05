@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="563caee1-7814-45e5-9400-4688421e75f7" name="Default Changelist" comment="" />
+    <list default="true" id="563caee1-7814-45e5-9400-4688421e75f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TargetAPP/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/TargetAPP/Extent-Report/ExtentReport.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -17,22 +21,23 @@
     <session id="1674125630">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
-          <entry key="exe" value="1" />
+          <entry key="exe" value="2" />
           <entry key="html" value="6" />
-          <entry key="java" value="170" />
+          <entry key="java" value="181" />
           <entry key="xml" value="23" />
         </counts>
       </usages-collector>
@@ -40,8 +45,8 @@
         <counts>
           <entry key="CLASS" value="4" />
           <entry key="HTML" value="6" />
-          <entry key="JAVA" value="170" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="181" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="23" />
         </counts>
       </usages-collector>
@@ -49,14 +54,14 @@
         <counts>
           <entry key="class" value="42" />
           <entry key="dummy" value="12" />
-          <entry key="java" value="1371" />
+          <entry key="java" value="1373" />
           <entry key="xml" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CLASS" value="42" />
-          <entry key="JAVA" value="1371" />
+          <entry key="JAVA" value="1373" />
           <entry key="PLAIN_TEXT" value="12" />
           <entry key="XML" value="84" />
         </counts>
@@ -66,111 +71,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/datProviderUtilityWIthXlsReader/Xls_Reader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="196" column="1" selection-start-line="196" selection-start-column="1" selection-end-line="196" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/datProviderUtilityWIthXlsReader/XlsDataReaderUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-              <folding>
-                <element signature="e#245#255#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TargetAPP/Extent-Report/ExtentReport.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="709">
-              <caret line="846" lean-forward="true" selection-start-line="846" selection-end-line="846" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1012">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="110">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TargetAPP/src/main/java/reporting/ExtentManager.java">
+        <entry file="file://$PROJECT_DIR$/TargetAPP/src/test/java/inputsearch/ShoppingCartTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="396">
+              <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TargetAPP/src/main/java/reporting/ExtentTestManger.java">
+        <entry file="file://$PROJECT_DIR$/TargetAPP/src/test/java/datatest/XcelReaderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="154">
+              <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1672">
+              <caret line="111" selection-start-line="111" selection-end-line="111" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TargetAPP/src/test/java/inputsearch/TargetHomePageTest.java">
+        <entry file="file://$PROJECT_DIR$/TargetAPP/src/main/java/googleSheetsAPI/GoogleSheetPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#798#799#0" expanded="true" />
-                <element signature="e#844#845#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TargetAPP/src/main/java/reporting/ApplicationLog.java">
+        <entry file="file://$PROJECT_DIR$/TargetAPP/src/test/java/inputsearch/TestGoogleSheetPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="88">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TargetAPP/src/main/java/HomePageTarget/TargetHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="25" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1342">
+              <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -185,7 +170,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -222,6 +207,8 @@
         <option value="$PROJECT_DIR$/TargetAPP/src/test/resources/targetRunner.xml" />
         <option value="$PROJECT_DIR$/TargetAPP/src/test/java/inputsearch/TargetHomePageTest.java" />
         <option value="$PROJECT_DIR$/TargetAPP/Extent-Report/ExtentReport.html" />
+        <option value="$PROJECT_DIR$/TargetAPP/src/main/java/googleSheetsAPI/GoogleSheetPage.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java" />
       </list>
     </option>
   </component>
@@ -251,9 +238,9 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="525" />
-    <option name="y" value="125" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="277" />
+    <option name="y" value="25" />
     <option name="width" value="1330" />
     <option name="height" value="805" />
   </component>
@@ -265,7 +252,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -281,96 +268,7 @@
             <path>
               <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="driver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
               <item name="TargetAPP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="TargetAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="driver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
@@ -378,95 +276,17 @@
               <item name="TargetAPP" type="462c0819:PsiDirectoryNode" />
               <item name="Extent-Report" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="TargetAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="TargetAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="TargetAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="TargetAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="TargetAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="HomePageTarget" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="TargetAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="reporting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="TargetAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="TargetAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="TargetAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="datatest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EcommerceDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Project" type="462c0819:PsiDirectoryNode" />
-              <item name="TargetAPP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="inputsearch" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538660675519" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MobileAutomation" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538708454538" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RetailBusiness" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -496,19 +316,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TargetHomePageTest">
-    <configuration name="All in Project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Project" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C:/Users/Jewell/Desktop/Project/TargetAPP/src/test/resources/targetRunner.xml">
     <configuration name="C:/Users/Jewell/Desktop/Project/TargetAPP/src/test/resources/targetRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TargetAPP" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/TargetAPP/src/test/resources/targetRunner.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCartTest.ClickOnAddQuantityF" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TargetAPP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inputsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="inputsearch" />
+      <option name="MAIN_CLASS_NAME" value="inputsearch.ShoppingCartTest" />
+      <option name="METHOD_NAME" value="ClickOnAddQuantityF" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCartTest.ClickOnChangeQuantityF" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TargetAPP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inputsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="inputsearch" />
+      <option name="MAIN_CLASS_NAME" value="inputsearch.ShoppingCartTest" />
+      <option name="METHOD_NAME" value="ClickOnChangeQuantityF" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCartTest.ClickOnShoppingCartF" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TargetAPP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inputsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="inputsearch" />
+      <option name="MAIN_CLASS_NAME" value="inputsearch.ShoppingCartTest" />
+      <option name="METHOD_NAME" value="ClickOnShoppingCartF" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -531,56 +397,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TargetHomePageTest.ClickOnWeeklyAddF" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TargetAPP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inputsearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="inputsearch" />
-      <option name="MAIN_CLASS_NAME" value="inputsearch.TargetHomePageTest" />
-      <option name="METHOD_NAME" value="ClickOnWeeklyAddF" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TargetHomePageTest.clickOnDealsF" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TargetAPP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inputsearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="inputsearch" />
-      <option name="MAIN_CLASS_NAME" value="inputsearch.TargetHomePageTest" />
-      <option name="METHOD_NAME" value="clickOnDealsF" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="TestNG.C:/Users/Jewell/Desktop/Project/TargetAPP/src/test/resources/targetRunner.xml" />
-      <item itemvalue="TestNG.TargetHomePageTest.ClickOnWeeklyAddF" />
-      <item itemvalue="JUnit.All in Project" />
-      <item itemvalue="TestNG.TargetHomePageTest.clickOnDealsF" />
       <item itemvalue="TestNG.TargetHomePageTest" />
+      <item itemvalue="TestNG.ShoppingCartTest.ClickOnChangeQuantityF" />
+      <item itemvalue="TestNG.ShoppingCartTest.ClickOnShoppingCartF" />
+      <item itemvalue="TestNG.ShoppingCartTest.ClickOnAddQuantityF" />
+      <item itemvalue="TestNG.C:/Users/Jewell/Desktop/Project/TargetAPP/src/test/resources/targetRunner.xml" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TargetHomePageTest" />
-        <item itemvalue="TestNG.TargetHomePageTest.clickOnDealsF" />
         <item itemvalue="TestNG.C:/Users/Jewell/Desktop/Project/TargetAPP/src/test/resources/targetRunner.xml" />
-        <item itemvalue="TestNG.TargetHomePageTest.ClickOnWeeklyAddF" />
-        <item itemvalue="JUnit.All in Project" />
+        <item itemvalue="TestNG.ShoppingCartTest.ClickOnChangeQuantityF" />
+        <item itemvalue="TestNG.ShoppingCartTest.ClickOnShoppingCartF" />
+        <item itemvalue="TestNG.ShoppingCartTest.ClickOnAddQuantityF" />
+        <item itemvalue="TestNG.TargetHomePageTest" />
       </list>
     </recent_temporary>
   </component>
@@ -598,24 +428,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ShoppingCartTest_ClickOnAddQuantityF - 2018.10.03 at 23h 06m 35s.xml">
-      <configuration name="ShoppingCartTest.ClickOnAddQuantityF" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Jewell_Desktop_Project_TargetAPP_src_test_resources_targetRunner_xml - 2018.10.04 at 00h 15m 42s.xml">
-      <configuration name="C:/Users/Jewell/Desktop/Project/TargetAPP/src/test/resources/targetRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Jewell_Desktop_Project_TargetAPP_src_test_resources_targetRunner_xml - 2018.10.04 at 00h 17m 39s.xml">
-      <configuration name="C:/Users/Jewell/Desktop/Project/TargetAPP/src/test/resources/targetRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Jewell_Desktop_Project_TargetAPP_src_test_resources_targetRunner_xml - 2018.10.04 at 00h 28m 22s.xml">
-      <configuration name="C:/Users/Jewell/Desktop/Project/TargetAPP/src/test/resources/targetRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Jewell_Desktop_Project_TargetAPP_src_test_resources_targetRunner_xml - 2018.10.04 at 00h 32m 47s.xml">
-      <configuration name="C:/Users/Jewell/Desktop/Project/TargetAPP/src/test/resources/targetRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Jewell_Desktop_Project_TargetAPP_src_test_resources_targetRunner_xml - 2018.10.04 at 07h 59m 34s.xml">
-      <configuration name="C:/Users/Jewell/Desktop/Project/TargetAPP/src/test/resources/targetRunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TargetHomePageTest_ClickOnWeeklyAddF - 2018.10.04 at 09h 15m 02s.xml">
       <configuration name="TargetHomePageTest.ClickOnWeeklyAddF" configurationId="TestNG" />
     </history-entry>
@@ -627,6 +439,24 @@
     </history-entry>
     <history-entry file="TargetHomePageTest - 2018.10.04 at 09h 29m 38s.xml">
       <configuration name="TargetHomePageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ShoppingCartTest_ClickOnChangeQuantityF - 2018.10.04 at 19h 21m 12s.xml">
+      <configuration name="ShoppingCartTest.ClickOnChangeQuantityF" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ShoppingCartTest_ClickOnShoppingCartF - 2018.10.04 at 19h 21m 53s.xml">
+      <configuration name="ShoppingCartTest.ClickOnShoppingCartF" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ShoppingCartTest_ClickOnAddQuantityF - 2018.10.04 at 19h 22m 39s.xml">
+      <configuration name="ShoppingCartTest.ClickOnAddQuantityF" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ShoppingCartTest_ClickOnShoppingCartF - 2018.10.04 at 19h 24m 40s.xml">
+      <configuration name="ShoppingCartTest.ClickOnShoppingCartF" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Jewell_Desktop_Project_TargetAPP_src_test_resources_targetRunner_xml - 2018.10.04 at 19h 28m 45s.xml">
+      <configuration name="C:/Users/Jewell/Desktop/Project/TargetAPP/src/test/resources/targetRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ShoppingCartTest_ClickOnChangeQuantityF - 2018.10.04 at 20h 12m 05s.xml">
+      <configuration name="ShoppingCartTest.ClickOnChangeQuantityF" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -641,7 +471,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49758455" visible="true" weight="0.17583893" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49758455" visible="true" weight="0.17583893" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -651,16 +481,16 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.56373936" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.25212464" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.39518413" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.21671388" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.22521247" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.22521247" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -670,8 +500,50 @@
       <window_info anchor="right" id="Mongo Explorer" order="8" weight="0.3295302" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>vcs://TargetAPP/src/test/java/inputsearch/TargetHomePageTest.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/TargetAPP/driver/geckodriver.exe">
@@ -685,29 +557,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TargetAPP/target/classes/HomePageTarget/TargetLogin.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TargetAPP/target/classes/HomePageTarget/TargetShoppingCart.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TargetAPP/target/classes/HomePageTarget/TargetHomePage.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/TargetAPP/target/classes/HomePageTarget/TargetLogin.class" />
+    <entry file="file://$PROJECT_DIR$/TargetAPP/target/classes/HomePageTarget/TargetShoppingCart.class" />
+    <entry file="file://$PROJECT_DIR$/TargetAPP/target/classes/HomePageTarget/TargetHomePage.class" />
     <entry file="file://$PROJECT_DIR$/TargetAPP/src/main/java/reporting.java" />
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/datProviderUtilityWIthXlsReader/XlReader.java" />
     <entry file="file://$PROJECT_DIR$/TargetAPP/src/test/java/datatest/GoogleSheetTest.java" />
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1232">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RestAPI/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -726,9 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -736,9 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
           <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -746,33 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="37" column="66" selection-start-line="37" selection-start-column="66" selection-end-line="37" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TargetAPP/src/main/java/HomePageTarget/TargetHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2546#2547#0" expanded="true" />
-            <element signature="e#2580#2581#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="111" column="9" selection-start-line="111" selection-start-column="9" selection-end-line="111" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3132#3133#0" expanded="true" />
-            <element signature="e#3162#3163#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -780,19 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="729">
           <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TargetAPP/src/test/java/datatest/XcelReaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -800,9 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="41" column="59" lean-forward="true" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -817,19 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TargetAPP/src/test/java/inputsearch/ShoppingCartTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -837,11 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -856,9 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -866,11 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -878,9 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -888,9 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="438">
           <caret line="196" column="1" selection-start-line="196" selection-start-column="1" selection-end-line="196" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -898,9 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <element signature="e#245#255#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -908,13 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="709">
           <caret line="846" lean-forward="true" selection-start-line="846" selection-end-line="846" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
@@ -929,9 +693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -939,9 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="438">
           <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -949,6 +707,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
           <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TargetAPP/src/main/java/HomePageTarget/TargetHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TargetAPP/src/test/java/inputsearch/ShoppingCartTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TargetAPP/src/test/java/datatest/XcelReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/googleAPIs/GoogleSheetReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TargetAPP/src/test/java/inputsearch/TestGoogleSheetPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TargetAPP/src/main/java/googleSheetsAPI/GoogleSheetPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -1004,7 +832,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Generic</last-edited>
+          <last-edited>RestAPI</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
